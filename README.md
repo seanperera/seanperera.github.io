@@ -6,4 +6,4 @@ Over 15 years hands-on experience in solution design and development, devops, pr
 
 # Certifications
 
-[](./images/Microsoft.png)
+![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) - Microsoft® Certified Professional
