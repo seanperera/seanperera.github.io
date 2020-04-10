@@ -57,4 +57,4 @@ He has over 15 years hands-on experience in solution design and development, dev
 
 [LinkedIn](https://www.linkedin.com/in/pererasean/)
 
-[GitHub](seanperera/mygithubpage)
+[GitHub](https://github.com/seanperera)
