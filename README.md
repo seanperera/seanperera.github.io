@@ -53,5 +53,7 @@ He has over 15 years hands-on experience in solution design and development, dev
 - Git, GitHub
 - Scrum
 
+# Contact
 
+[Linkedin](https://www.linkedin.com/in/pererasean/)
 
