@@ -6,4 +6,13 @@ Over 15 years hands-on experience in solution design and development, devops, pr
 
 # Certifications
 
-![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) - Microsoft® Certified Professional
+![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) Microsoft® Certified Solutions Associate: Cloud Platform
+
+![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) Microsoft® Certified Professional
+
+![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) Architecting Microsoft Azure Solutions
+
+![](https://github.com/seanperera/seanperera.github.io/blob/master/images/Microsoft.png) Developing Microsoft Azure Solutions
+
+
+
