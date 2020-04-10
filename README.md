@@ -20,8 +20,9 @@ He has over 15 years hands-on experience in solution design and development, dev
 
 # Industries
 - Telecommunication
-- Health
+- Healthcare
 - Business and Technology
+- Professional Services
 - Government
 - Manufacturing
 
