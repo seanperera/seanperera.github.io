@@ -48,7 +48,6 @@ He has over 15 years hands-on experience in solution design and development, dev
 - ARM Templates
 - PowerShell Scripting
 - Unit Testing ((MSTest, NUnit, xUnit)
-- Angular
 - HTML5, CSS, JavaScript, 
 - Git, GitHub
 - Scrum
