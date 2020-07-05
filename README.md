@@ -6,6 +6,7 @@ He has over 15 years hands-on experience in solution design and development, dev
 
 # Licenses & Certifications
 
+- Designing and Implementing Microsoft DevOps Solutions
 - Microsoft® Certified Solutions Associate: Cloud Platform
 - Microsoft® Certified Professional
 - Architecting Microsoft Azure Solutions
