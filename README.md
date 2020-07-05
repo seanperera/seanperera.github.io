@@ -15,9 +15,20 @@ He has over 15 years hands-on experience in solution design and development, dev
 
 # Areas of expertise
 - Application Modernisation
-- DevOps
+- DevSecOps
 - Cloud Development and Architecture
 - Artificial Intelligence
+
+# Key Skills
+- Solution Architecture
+- Cloud Computing
+- Consulting
+- Team Leadership
+- DevSecOps
+- Solution Development
+- Artificial Intelligence (AI)
+- Agile Project Management
+
 
 # Industries
 - Telecommunication
